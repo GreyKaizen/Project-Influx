@@ -6,50 +6,131 @@
 #include <string>
 #include <fstream>
 #include <iomanip>
+#include <cstdlib>
+#include <ctime>
+
 
 using namespace std;
 
 //this header file is used to define all the classes and structs being used by the sign in/up process.
 
-void Sign_in(){
+int Sign_up(){
+    //idatabse = input reading database
+    //wdatabase = output writing database
     string username, password;
+    string unique_key;
+    string key_identifier;
+    string line;
 
-    cout << "Enter Username :";
-    getline(cin, username, '\n');
-    //cout << "Enter Password : ";
-    getline(cin, password, '\n');
+    //cin.ignore(100, '\n');
+    cout << "Username & Password must contain at least" << endl << "1 Capital Character" << endl << "1 Number" << endl;
+    cout << "Enter username: ";
+    cin.ignore(10, '\n');
+    getline(cin, username);
+    cout << "Enter Password: ";
+    getline(cin, password);
 
-    fstream database("Database.txt", ios::app);
-    //database.open("Database.txt");
+    
+    unique_key = username + "." + password;
 
-    if(database.is_open()){
-        //database << "Successfully opened Database.txt" << endl;
-        cout << "Database Opened" << endl;
+    //Removing Whitespace and Assigning it to the key_identifier
+    for(char str : unique_key){
+        if(str != '\n' && str != ' ' && str != '\t' && str != '\r')
+        key_identifier += str;
     }
-    else{
-        cout << "Failure Error : Database not opening" << endl;
+
+    unique_key = "username:" + username + "|password:" + password + "|" + key_identifier;
+
+    //file handling to check existant user
+    fstream idatabase("Database.txt", ios::in | ios::app);
+
+    if(!idatabase.is_open()){
+        cerr << "Failed to open Database" << endl;
+        return 1;
     }
 
-    //cin.putback('\n');   //Without this the program will not take input for the first string and jumps to the next string input
+    while(getline(idatabase, line)){
+        //Testing of keys
+        //cout << "Line: " << line << endl;
+        //cout << "Uniq: " << unique_key << endl;
+        if(unique_key == line){
+            cout << endl << "User Already Exists" << endl;
+            cout << "Do you wish to sign in?" << endl << endl;
+            idatabase.close();
+            return 1;
+        }
+    }
+    idatabase.close();
 
-    //cin.ignore(1000,'\n');
+    //File Handling to create user and write data
+    //One Declaration of file handling is not working correctly for both read and write purpose (issue # 2)
+    fstream wdatabase("Database.txt", ios::in | ios::app);
 
-    //database << left << setw(16) << "username:" << username;
-    //database << "\t" << left << setw(16) << "password:" << password << endl;
+    if(!wdatabase.is_open()){
+        cerr << "Failed to open Database" << endl;
+        return 1;
+    }
 
-    database << setw(30) << left << "username:" + username << right << "password:" + password << endl;
+    cout << "Creating new user" << endl;
+    wdatabase << "username:" << username << "|password:" << password << "|" << key_identifier << endl;
 
-    database.close();
+    wdatabase.close();
 
-    //cout << "Database Closed" << endl;
-    //cout << "Data is being saved to the database" << endl;
-
-    cout << endl << "Successfully Registered"<< endl << "Try to Login with your account credentials" << endl << endl;
+    cout << "Key: " << key_identifier << endl;
+    //printing data into the file
+    cout << "User Successfully Registered " << endl;
 
 }
-void Sign_up(){
+int Sign_in(){
     string username, password;
+    string unique_key;
+    string key_identifier;
+    string line;
+    fstream database("Database.txt", ios::in);
 
+    cin.ignore(10, '\n');
+    cout << endl << "Please Provide Following Credentials" << endl;
+    cout << "Enter Username: ";
+    getline(cin, username);
+    cout << "Enter Password: ";
+    getline(cin, password);
+
+    //database Existence checkup
+    if(!database.is_open()){
+        cout << "Failed to open Database" << endl;
+        return 1;
+    }
+
+
+    unique_key = username + "." + password;
+
+    for(char str : unique_key){
+        if(str != '\n' && str != ' ' && str != '\t' && str != '\r')
+        key_identifier += str;
+    }
+
+    //cout << "key_identifier: " << key_identifier << endl;
+
+
+    //Logic to Find/Match the password
+    //reading data from the file.
+    while(getline(database, line)){
+        //cout << line << endl;
+        //cout << line.length() << endl;
+        //cout << key_identifier.length() << endl;  
+        int point = line.length() - key_identifier.length();
+
+        unique_key = line.substr(point, line.length());
+
+        if(unique_key == key_identifier){
+            cout << endl << "Welcome to Influx and Shit" << endl << endl;
+            break;
+        }
+    }
+
+    if(unique_key != key_identifier){
+        cout << "Password didn't match" << endl << "try again" << endl;
+    }
 }
 
 #endif

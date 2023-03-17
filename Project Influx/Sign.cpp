@@ -17,10 +17,10 @@ int main(){
         cin >> input;
 
         if(input == 1){ // Enter the Sign in
-
+            Sign_in();
         }
         if(input == 2){ // Enter the Sign Up
-            Sign_in();
+            Sign_up();
         }
         if(input == 3){ // Enter the Forgot Password
 

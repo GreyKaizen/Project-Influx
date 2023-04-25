@@ -1,0 +1,297 @@
+First Format (string,string,int,string,string,int,string,double,int,int) 
+Second Format all in strings with little info in this style (Inventory_ID,productID,stock,Brand/Company,Name,Price,Model,Screen_Size,RAM,Storage,Desciption(3 lines or more).
+
+Use these Inventory Locations Randomly for Inventory_ID :  KAR101, LAH102, ISB103, PEW104, QET105, NYC106, DXB108.
+Use this ProductID only : ELC101
+
+Don't mess up the format
+
+Generate about 7 products with the above information for Electronic Category.
+
+First Format (string,string,int,string,int,string,int,int,int) 
+
+Use these Inventory Locations Randomly for Inventory_ID :  KAR101, LAH102, ISB103, PEW104, QET105, NYC106, DXB108.
+Use this ProductID only : ELC101
+
+Don't mess up the format, 
+Don't use  the "" in the string.
+
+Generate about 13 products with the above information for Electronic Category.
+
+//Responding Query For Automotive
+
+First Format (string,string,int,string,string,int,string,string,int,int) 
+values correspongs to these attributes (Inventory_ID,productID,stock,Brand/Company,Name,Price,Model,Vehicle Type, Engine Size, Year).
+
+Use these Inventory Locations Randomly for Inventory_ID :  KAR101, LAH102, ISB103, PEW104, QET105, NYC106, DXB108.
+Use this ProductID only : AUT108
+Enlist only the products that qualify all the attributes of first format
+Don't be vague, be specific 
+Don't mess up the format
+
+Generate about 20 products with the above information for Automotive Category
+
+KAR101,AUT108,3,Toyota,Corolla,20000,XLI,Sedan,1.6,2015
+LAH102,AUT108,2,Honda,Civic,25000,VTI,Sedan,1.8,2018
+ISB103,AUT108,5,Suzuki,Wagon R,15000,VXL,Hatchback,1.0,2019
+PEW104,AUT108,1,Toyota,Prado,50000,TZ-G,SUV,4.0,2016
+QET105,AUT108,4,Mercedes-Benz,C-Class,40000,C200,Sedan,2.0,2017
+NYC106,AUT108,0,Hyundai,Elantra,23000,Elite,Sedan,1.6,2019
+DXB108,AUT108,6,Honda,Accord,27000,VTI-L,Sedan,1.5,2020
+KAR101,AUT108,2,Toyota,Camry,32000,Hybrid LE,Sedan,2.5,2021
+LAH102,AUT108,3,Nissan,Altima,26000,2.5 SR,Sedan,2.5,2019
+ISB103,AUT108,4,Mitsubishi,Pajero,45000,Exceed,SUV,3.2,2018
+PEW104,AUT108,1,Audi,A4,35000,2.0T Premium,Sedan,2.0,2017
+QET105,AUT108,5,Mazda,CX-5,28000,Grand Touring,SUV,2.5,2020
+NYC106,AUT108,2,BMW,3 Series,42000,320i,Sedan,2.0,2018
+DXB108,AUT108,6,Ford,Mustang,50000,EcoBoost,Pony Car,2.3,2019
+
+
+//Responding Query For Pet
+
+First Format (string,string,int,string,string,int,string,string,string) 
+values correspongs to these attributes (Inventory_ID,productID,stock,Brand/Company,Name,Price,type_of_product, animal_type, age_range).
+
+Use these Inventory Locations Randomly for Inventory_ID :  KAR101, LAH102, ISB103, PEW104, QET105, NYC106, DXB108.
+Use this ProductID only : PET107
+Enlist only the products that qualify all the attributes of first format
+Don't be vague, be specific 
+Don't mess up the format
+
+Generate about 20 products with the above information for Pets Category
+
+KAR101, PET107, 15, Furry Friends, Premium Cat Food, 20.99, Dry Food, Cat, Adult
+NYC106, PET107, 10, Paws and Claws, Dog Treats, 5.99, Treats, Dog, All ages
+DXB108, PET107, 25, Happy Paws, Small Dog Harness, 15.99, Harness, Dog, Small
+PEW104, PET107, 5, Best Friends, Cat Litter, 9.99, Litter, Cat, Adult
+LAH102, PET107, 8, Purrfect Pet Supply, Catnip Toy, 3.99, Toy, Cat, Kitten
+ISB103, PET107, 20, Woof Wag Walk, Large Dog Bed, 49.99, Bed, Dog, Adult
+KAR101, PET107, 12, Happy Tails, Dog Shampoo, 12.99, Shampoo, Dog, All ages
+QET105, PET107, 30, Bark Avenue, Dog Leash, 9.99, Leash, Dog, Medium
+NYC106, PET107, 7, Furry Friends, Cat Scratching Post, 39.99, Scratching Post, Cat, Adult
+DXB108, PET107, 18, Paws and Claws, Cat Toy Set, 19.99, Toy, Cat, All ages
+PEW104, PET107, 10, Best Friends, Dog Food, 24.99, Dry Food, Dog, Adult
+LAH102, PET107, 6, Purrfect Pet Supply, Cat Litter Box, 29.99, Litter Box, Cat, Adult
+ISB103, PET107, 4, Woof Wag Walk, Dog Carrier, 49.99, Carrier, Dog, Small
+KAR101, PET107, 25, Happy Paws, Dog Poop Bags, 6.99, Poop Bags, Dog, All ages
+QET105, PET107, 10, Bark Avenue, Dog Collar, 14.99, Collar, Dog, Small
+NYC106, PET107, 20, Furry Friends, Cat Food, 12.99, Wet Food, Cat, Adult
+
+
+//Responding Query For Toy and Games
+
+First Format (string,string,int,string,string,int,int,string,int) 
+values correspongs to these attributes (Inventory_ID,productID,stock,Brand/Company,Name,Price,age_range,type_of_game, number_of_players).
+
+Use these Inventory Locations Randomly for Inventory_ID :  KAR101, LAH102, ISB103, PEW104, QET105, NYC106, DXB108.
+Use this ProductID only : TNG106
+Enlist only the products that qualify all the attributes of first format
+Don't be vague, be specific 
+Don't mess up the format
+
+Generate about 20 products with the above information for Toys and Games Category
+
+KAR101, TNG106, 10, Hasbro, Monopoly, 30, 8+, Board Game, 2-8
+LAH102, TNG106, 5, Mattel, UNO, 10, 7+, Card Game, 2-10
+ISB103, TNG106, 15, Lego, City Police Station, 50, 6-12, Building Set, 1
+PEW104, TNG106, 8, Ravensburger, Labyrinth, 20, 7+, Board Game, 2-4
+QET105, TNG106, 3, Hasbro, Transformers: Cyberverse Ultimate Class, 35, 6+, Action Figure, 1
+NYC106, TNG106, 12, Mattel, Hot Wheels, 5, 3+, Toy Car, 1
+DXB108, TNG106, 6, Play-Doh, Fun Factory Deluxe Set, 25, 3+, Arts & Crafts, 1+
+KAR101, TNG106, 20, Spin Master, Hatchimals Colleggtibles, 8, 5+, Collectible Toy, 1-2
+LAH102, TNG106, 4, Hasbro, Speak Out, 20, 16+, Party Game, 4-10
+ISB103, TNG106, 18, Lego, Ninjago Legacy Monastery of Spinjitzu, 80, 9+, Building Set, 1
+PEW104, TNG106, 10, Mattel, Apples to Apples, 15, 12+, Party Game, 4-10
+QET105, TNG106, 7, Spin Master, Owleez, 40, 6+, Interactive Toy, 1
+NYC106, TNG106, 3, Hasbro, G.I. Joe Classified Series, 30, 4+, Action Figure, 1
+DXB108, TNG106, 9, Crayola, Inspiration Art Case, 20, 5+, Arts & Crafts, 1+
+KAR101, TNG106, 14, Mattel, Pictionary, 25, 8+, Party Game, 3-16
+LAH102, TNG106, 2, Playmobil, DreamWorks Dragons Hiccup and Toothless, 25, 4+, Playset, 1
+ISB103, TNG106, 6, Lego, Star Wars Mos Eisley Cantina, 350, 18+, Building Set, 1
+PEW104, TNG106, 11, Ravensburger, Disney Villainous, 25, 10+, Board Game, 2-6
+QET105, TNG106, 5, Spin Master, Etch A Sketch, 15, 3+, Drawing Toy, 1
+NYC106, TNG106, 1, Hasbro, Monopoly: Fortnite Edition, 20, 13+, Board Game, 2-7
+
+
+//Responding Query For Medicine
+
+First Format (string,string,int,string,string,int,string,string,string) 
+values correspongs to these attributes (Inventory_ID,productID,stock,Brand/Company,Name,Price,type, dosage, expiry).
+
+Use these Inventory Locations Randomly for Inventory_ID :  KAR101, LAH102, ISB103, PEW104, QET105, NYC106, DXB108.
+Use this ProductID only : MED105
+Enlist only the products that qualify all the attributes of first format
+Don't be vague, be specific 
+Don't mess up the format
+
+Generate about 20 products with the above information for Medicine and Herbs Category
+
+KAR101, MED105, 50, Pfizer, Aspirin, 5.99, Tablet, 500mg, 06/2025
+NYC106, MED105, 100, Johnson & Johnson, Tylenol, 8.99, Caplet, 325mg, 09/2024
+DXB108, MED105, 75, Bayer, Aleve, 12.99, Tablet, 220mg, 12/2023
+LAH102, MED105, 200, Novartis, Excedrin, 7.99, Caplet, 250mg, 05/2024
+QET105, MED105, 150, GSK, Advil, 9.99, Tablet, 200mg, 08/2025
+ISB103, MED105, 50, Pfizer, Celebrex, 25.99, Capsule, 100mg, 03/2023
+KAR101, MED105, 100, Johnson & Johnson, Motrin, 7.99, Tablet, 400mg, 11/2024
+NYC106, MED105, 80, Bayer, Alka-Seltzer, 6.99, Effervescent Tablet, 325mg, 02/2023
+DXB108, MED105, 60, GSK, Tums, 8.99, Chewable Tablet, 1000mg, 10/2023
+LAH102, MED105, 25, Pfizer, Zoloft, 20.99, Tablet, 50mg, 07/2024
+QET105, MED105, 50, Pfizer, Viagra, 50.99, Tablet, 100mg, 12/2022
+ISB103, MED105, 30, Novartis, Ritalin, 30.99, Tablet, 10mg, 09/2023
+KAR101, MED105, 40, Pfizer, Lipitor, 18.99, Tablet, 40mg, 11/2022
+NYC106, MED105, 20, Bayer, Xarelto, 60.99, Tablet, 10mg, 05/2024
+DXB108, MED105, 100, GSK, Robitussin, 8.99, Syrup, 4mg/5ml, 06/2023
+LAH102, MED105, 50, Pfizer, Prevacid, 15.99, Capsule, 15mg, 08/2022
+QET105, MED105, 75, Johnson & Johnson, Imodium, 9.99, Capsule, 2mg, 01/2024
+ISB103, MED105, 90, Novartis, Voltaren, 10.99, Tablet, 50mg, 12/2025
+KAR101, MED105, 120, Pfizer, Sudafed, 12.99, Tablet, 30mg, 07/2023
+NYC106, MED105, 60, Bayer, Miralax, 11.99, Powder, 17g, 03/2024
+
+
+//Responding Query For Sports and Outdoor Category
+
+First Format (string,string,int,string,string,int,string,string,string,string) 
+values correspongs to these attributes (Inventory_ID,productID,stock,Brand/Company,Name,Price,size, color, material, sport_activity_type).
+
+Use these Inventory Locations Randomly for Inventory_ID :  KAR101, LAH102, ISB103, PEW104, QET105, NYC106, DXB108.
+Use this ProductID only : SPO104
+Enlist only the products that qualify all the attributes of first format
+Don't be vague, be specific 
+Don't mess up the format
+
+Generate about 20 products with the above information for Sports and Outdoor Category
+
+KAR101, SPO104, 8, Nike, Air Max 270, 10999, 9, Black, Synthetic, Running
+NYC106, SPO104, 12, Adidas, Ultra Boost, 12999, 10, Grey, Mesh, Running
+LAH102, SPO104, 6, Puma, Future Rider, 7999, 8, White, Synthetic, Casual
+ISB103, SPO104, 10, Under Armour, HOVR Sonic, 9999, 9, Navy Blue, Mesh, Running
+PEW104, SPO104, 4, Reebok, Classic Leather, 6999, 11, White, Leather, Casual
+DXB108, SPO104, 5, ASICS, Gel-Kayano 28, 11999, 10, Black, Mesh, Running
+KAR101, SPO104, 7, Nike, Air Force 1, 8999, 9, Red, Leather, Casual
+LAH102, SPO104, 9, Adidas, Superstar, 9999, 8, Black, Leather, Casual
+NYC106, SPO104, 11, Puma, Suede Classic, 7999, 10, Blue, Suede, Casual
+PEW104, SPO104, 3, New Balance, 990v5, 10999, 9, Grey, Mesh, Running
+QET105, SPO104, 15, Asics, Gel-Nimbus 23, 12999, 11, Black, Synthetic, Running
+LAH102, SPO104, 8, Adidas, Ultraboost 21, 11999, 9, White, Mesh, Running
+ISB103, SPO104, 6, Nike, Air Zoom Pegasus 38, 9999, 10, Grey, Mesh, Running
+KAR101, SPO104, 4, Puma, Cali, 7999, 8, Pink, Leather, Casual
+NYC106, SPO104, 10, Reebok, Nano 9, 8999, 11, Black, Synthetic, Training
+DXB108, SPO104, 7, Under Armour, HOVR Phantom, 11999, 10, Grey, Mesh, Running
+PEW104, SPO104, 5, Adidas, NMD_R1, 10999, 9, White, Mesh, Casual
+QET105, SPO104, 12, New Balance, Fresh Foam 1080v11, 11999, 11, Black, Mesh, Running
+NYC106, SPO104, 9, ASICS, Gel-Kayano 27, 11999, 8, Blue, Mesh, Running
+KAR101, SPO104, 10, Nike, Air Zoom Winflo 8, 8999, 9, White, Synthetic, Running
+
+
+
+//Responding Query For Beauty and Personal Care Category
+
+First Format (string,string,int,string,string,int,string,string,string,string) 
+values correspongs to these attributes (Inventory_ID,productID,stock,Brand/Company,Name,Price,Type of Product, ingrediants, sking_hair_type, scent).
+
+Use these Inventory Locations Randomly for Inventory_ID :  KAR101, LAH102, ISB103, PEW104, QET105, NYC106, DXB108.
+Use this ProductID only : BPC103
+Enlist only the products that qualify all the attributes of first format
+Don't be vague, be specific 
+Don't mess up the format
+
+Generate about 20 products with the above information for Personal and Beauty Care Category
+
+KAR101, BPC103, 10, Dove, Moisturizing Body Wash, 449, Body Wash, Glycerin, All Skin Types, Cucumber & Green Tea Scent
+LAH102, BPC103, 20, Nivea, Refreshing Body Wash, 349, Body Wash, Menthol, All Skin Types, Cool Menthol Scent
+ISB103, BPC103, 15, Olay, Ultra Moisture Body Wash, 599, Body Wash, Shea Butter, Dry Skin, Shea Butter Scent
+PEW104, BPC103, 25, Johnson's, Body Wash with Relaxing Fragrance, 399, Body Wash, Lavender, All Skin Types, Lavender Scent
+QET105, BPC103, 12, St. Ives, Coconut & Orchid Body Wash, 299, Body Wash, Coconut Milk, All Skin Types, Coconut & Orchid Scent
+NYC106, BPC103, 18, Neutrogena, Rainbath Refreshing Shower Gel, 699, Shower Gel, Vitamin E, All Skin Types, Rainbath Scent
+DXB108, BPC103, 30, Lux, Velvet Touch Moisturizing Body Wash, 199, Body Wash, Jasmine & Almond Oil, All Skin Types, Jasmine & Almond Scent
+KAR101, BPC103, 8, The Body Shop, Strawberry Shower Gel, 999, Shower Gel, Strawberry Extract, All Skin Types, Strawberry Scent
+LAH102, BPC103, 6, L'Occitane, Almond Shower Oil, 2999, Shower Oil, Almond Oil, All Skin Types, Almond Scent
+ISB103, BPC103, 5, Bioderma, Atoderm Shower Oil, 1899, Shower Oil, Glycerin, Dry and Sensitive Skin, Neutral Scent
+PEW104, BPC103, 22, Cetaphil, Restoraderm Skin Restoring Body Wash, 1099, Body Wash, Filaggrin, Dry and Sensitive Skin, Unscented
+QET105, BPC103, 13, Aveeno, Skin Relief Body Wash, 799, Body Wash, Colloidal Oatmeal, Dry and Itchy Skin, Soothing Oatmeal Scent
+NYC106, BPC103, 17, Avene, XeraCalm A.D Lipid-Replenishing Cleansing Oil, 1599, Cleansing Oil, I-modulia, Dry and Itchy Skin, Unscented
+DXB108, BPC103, 29, Vaseline, Intensive Care Advanced Repair Unscented Lotion, 499, Body Lotion, Glycerin, All Skin Types, Unscented
+KAR101, BPC103, 7, Jergens, Ultra Healing Extra Dry Skin Moisturizer, 599, Body Lotion, Vitamins C, E and B5, Extra Dry Skin, Cherry-Almond Scent
+LAH102, BPC103, 4, Bath & Body Works, A Thousand Wishes Ultra Shea Body Cream, 1499, Body Cream, Shea Butter, All Skin Types, A Thousand Wishes Scent
+ISB103, BPC103, 3, Kiehl's, Creme de Corps Whipped Body Butter, 3699, Body Butter, Shea Butter, All Skin Types, Unscented
+PEW104, BPC103, 21, Palmer's, Cocoa Butter Formula Daily Skin Therapy Body Lotion, 499, Body Lotion, Shea Butter, All Skin Types, Unscented
+
+//Responding Query For Fashion Category
+
+First Format (string,string,int,string,string,int,string,string,string,string) 
+values correspongs to these attributes (Inventory_ID,productID,stock,Brand/Company,Name,Price,Size,Color,Material,Style).
+
+Use these Inventory Locations Randomly for Inventory_ID :  KAR101, LAH102, ISB103, PEW104, QET105, NYC106, DXB108.
+Use this ProductID only : FSH102
+Enlist only the products that qualify all the attributes of first format
+Don't be vague, be specific 
+Don't mess up the format
+
+Generate about 20 products with the above information for Fashion Category
+
+KAR101, FSH102, 50, Zara, Women's Blue Jeans, 3999, 30, Blue, Denim, Skinny Fit
+NYC106, FSH102, 25, Levi's, Men's Black T-Shirt, 1999, M, Black, Cotton, Casual
+DXB108, FSH102, 10, H&M, Women's Red Dress, 5999, S, Red, Polyester, A-Line
+LAH102, FSH102, 30, Mango, Women's White Shirt, 2999, L, White, Cotton, Formal
+PEW104, FSH102, 15, Adidas, Men's Black Joggers, 4499, XL, Black, Polyester, Sportswear
+QET105, FSH102, 20, Nike, Men's Blue Shorts, 3299, S, Blue, Nylon, Athletic
+LAH102, FSH102, 40, Ralph Lauren, Men's White Polo Shirt, 5499, L, White, Cotton, Casual
+ISB103, FSH102, 10, Gucci, Women's Red Heels, 17999, 8, Red, Leather, High Heels
+DXB108, FSH102, 5, Zara, Men's Green Jacket, 8999, M, Green, Polyester, Bomber
+KAR101, FSH102, 20, Forever 21, Women's Floral Skirt, 2999, S, Floral, Cotton, A-Line
+NYC106, FSH102, 30, H&M, Women's Black Blazer, 4999, M, Black, Polyester, Formal
+ISB103, FSH102, 15, Tommy Hilfiger, Men's Blue Shirt, 6499, XL, Blue, Cotton, Formal
+QET105, FSH102, 25, Adidas, Women's Black Leggings, 3499, L, Black, Polyester, Sportswear
+LAH102, FSH102, 10, Mango, Women's Brown Boots, 8999, 8, Brown, Leather, Ankle Boots
+NYC106, FSH102, 35, Zara, Men's White Sneakers, 4499, 9, White, Canvas, Casual
+DXB108, FSH102, 5, Nike, Men's Red Hoodie, 6999, L, Red, Cotton, Sportswear
+KAR101, FSH102, 15, Forever 21, Women's Green Top, 2499, XS, Green, Chiffon, Casual
+PEW104, FSH102, 20, Gucci, Men's Brown Belt, 10999, 36, Brown, Leather, Formal
+ISB103, FSH102, 8, H&M, Men's Gray Sweater, 3999, L, Gray, Wool, Casual
+QET105, FSH102, 30, Zara, Women's Black Leather Jacket, 8999, M, Black, Leather, Biker
+
+//Responding Query For Electronic Category
+
+First Format (string,string,int,string,string,int,string,double,int,int) 
+values correspongs to these attributes (Inventory_ID,productID,stock,Brand/Company,Name,Price,Model,Screen_Size,RAM,Storage.
+
+Use these Inventory Locations Randomly for Inventory_ID :  KAR101, LAH102, ISB103, PEW104, QET105, NYC106, DXB108.
+Use this ProductID only : ELC101
+Enlist only the products that qualify all the attributes of first format
+Don't be vague like Headphones, be specific 
+
+Don't mess up the format
+
+Generate about 20 products with the above information for Electronic Category
+
+// Electronics
+
+ISB103, ELC101, 20, Apple, iPad Pro 11-inch, 89999, MY2J2HN/A, 11, 8, 256
+DXB108, ELC101, 12, Sony, Bravia X9000H, 124999, KD-65X9000H, 65, 4, 128
+LAH102, ELC101, 5, LG, OLED48C1PTB, 89999, OLED48C1PTB, 48, 8, 128
+KAR101, ELC101, 15, Samsung, Galaxy Tab S7+, 76999, SM-T970NZKAINU, 12.4, 8, 128
+LAH102, ELC101, 20, Apple, iPad Pro (2021), 92999, MHNW3HN/A, 11, 8, 128
+ISB103, ELC101, 30, Sony, Bravia X7500H, 73999, KD-55X7500H, 55, 2, 16
+PEW104, ELC101, 10, HP, Omen 15, 118999, 15-ek1017TX, 15.6, 16, 1TB
+QET105, ELC101, 25, Dell, Inspiron 15 3000, 41999, 3501, 15.6, 8, 1TB
+NYC106, ELC101, 12, LG, Gram 14, 63990, 14Z990-U.AAW5U1, 14, 8, 256
+DXB108, ELC101, 5, Acer, Nitro 5, 74999, AN515-56, 15.6, 8, 512
+KAR101, ELC101, 8, Lenovo, IdeaPad Slim 5, 46990, 82FE00KAIN, 14, 8, 512
+LAH102, ELC101, 20, Samsung, Galaxy A32, 20999, SM-A325FLKHINS, 6.4, 6, 128
+ISB103, ELC101, 15, Xiaomi, Mi 11X, 29999, M2011K2G, 6.67, 6, 128
+PEW104, ELC101, 6, Realme, Narzo 30 Pro, 16999, RMX3161, 6.5, 8, 128
+QET105, ELC101, 18, OnePlus, Nord CE 5G, 24999, AC2410, 6.43, 6, 128
+NYC106, ELC101, 22, Oppo, F19 Pro+, 25990, CPH2219, 6.43, 8, 128
+DXB108, ELC101, 3, Apple, iPhone 13 Pro, 119900, MK2H3HN/A, 6.1, 6, 512
+KAR101, ELC101, 14, Samsung, Galaxy Watch 3, 32999, SM-R850NZDAINU, 1.2, N/A, 8
+LAH102, ELC101, 7, Apple, AirPods Pro, 24999, MWP22HN/A, 0, 0, 0
+ISB103, ELC101, 20, JBL, Flip 5, 8999, JBLFLIP5BLK, 0, 0, 0
+PEW104, ELC101, 9, Sony, WH-1000XM4, 24990, WH-1000XM4/B, 0, 0, 0
+
+LHE102, ELC101, 25, Smart LED TV, 39999, SMTV-55, 55, 8, 128 
+ISB103, ELC101, 10, 4K UHD Smart TV, 59999, 4KUHD-50, 50, 12, 256
+PEW104, ELC101, 15, Wireless Bluetooth Speaker, 4999, WS-01, 0, 0, 0
+UET105, ELC101, 8, Gaming Laptop, 84999, GL-15, 15, 16, 512
+NYC106, ELC101, 20, Wireless Headphones, 7999, WH-400, 0, 0, 128
+LON107, ELC101, 12, Soundbar with Subwoofer, 19999, SB-01, 0, 0, 0
+DXB108, ELC101, 18, Portable Bluetooth Speaker, 6999, PBS-2, 0, 0, 128

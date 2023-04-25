@@ -1,0 +1,72 @@
+//Respond Query for Toy and Games
+
+Second Format (string,string,int,string,string,int,string,string,string,string) 
+values correspongs to these attributes (Inventory_ID,productID,stock,Brand/Company,Name,Price,age_range,type_of_game, number_of_players,Description).
+
+Enlist only the products that qualify all the attributes of first format
+Don't be vague, be specific 
+Don't mess up the format
+Don't use "" for the string
+
+Generate only the 2 line or more description of each enlisted item and use Second format for output with comma separation.
+
+KAR101, TNG106, 10, Hasbro, Monopoly, 30, 8+, Board Game, 2-8
+LAH102, TNG106, 5, Mattel, UNO, 10, 7+, Card Game, 2-10
+ISB103, TNG106, 15, Lego, City Police Station, 50, 6-12, Building Set, 1
+PEW104, TNG106, 8, Ravensburger, Labyrinth, 20, 7+, Board Game, 2-4
+QET105, TNG106, 3, Hasbro, Transformers: Cyberverse Ultimate Class, 35, 6+, Action Figure, 1
+NYC106, TNG106, 12, Mattel, Hot Wheels, 5, 3+, Toy Car, 1
+DXB108, TNG106, 6, Play-Doh, Fun Factory Deluxe Set, 25, 3+, Arts & Crafts, 1+
+KAR101, TNG106, 20, Spin Master, Hatchimals Colleggtibles, 8, 5+, Collectible Toy, 1-2
+LAH102, TNG106, 4, Hasbro, Speak Out, 20, 16+, Party Game, 4-10
+ISB103, TNG106, 18, Lego, Ninjago Legacy Monastery of Spinjitzu, 80, 9+, Building Set, 1
+PEW104, TNG106, 10, Mattel, Apples to Apples, 15, 12+, Party Game, 4-10
+QET105, TNG106, 7, Spin Master, Owleez, 40, 6+, Interactive Toy, 1
+NYC106, TNG106, 3, Hasbro, G.I. Joe Classified Series, 30, 4+, Action Figure, 1
+DXB108, TNG106, 9, Crayola, Inspiration Art Case, 20, 5+, Arts & Crafts, 1+
+KAR101, TNG106, 14, Mattel, Pictionary, 25, 8+, Party Game, 3-16
+LAH102, TNG106, 2, Playmobil, DreamWorks Dragons Hiccup and Toothless, 25, 4+, Playset, 1
+ISB103, TNG106, 6, Lego, Star Wars Mos Eisley Cantina, 350, 18+, Building Set, 1
+PEW104, TNG106, 11, Ravensburger, Disney Villainous, 25, 10+, Board Game, 2-6
+QET105, TNG106, 5, Spin Master, Etch A Sketch, 15, 3+, Drawing Toy, 1
+NYC106, TNG106, 1, Hasbro, Monopoly: Fortnite Edition, 20, 13+, Board Game, 2-7
+
+Output for Desciption
+
+KAR101, TNG106, 10, Hasbro, Monopoly, 30, 8+, Board Game, 2-8, Monopoly is a classic board game that has been played for generations. It is a game of strategy and luck, where players buy and sell properties, build houses and hotels, and try to bankrupt their opponents. The game is designed for 2 to 8 players and is recommended for ages 8 and up.
+
+LAH102, TNG106, 5, Mattel, UNO, 10, 7+, Card Game, 2-10, UNO is a classic card game that has been enjoyed by families for decades. The game is easy to learn and can be played with 2 to 10 players. The object of the game is to be the first player to get rid of all of your cards. UNO is recommended for ages 7 and up.
+
+ISB103, TNG106, 15, Lego, City Police Station, 50, 6-12, Building Set, 1, The Lego City Police Station is an exciting building set that lets kids build their own police station and then act out their own crime-fighting adventures. The set comes with everything kids need to build the station and includes several police officers, a criminal, and a police car. The set is recommended for ages 6 to 12.
+
+PEW104, TNG106, 8, Ravensburger, Labyrinth, 20, 7+, Board Game, 2-4, Labyrinth is a board game that challenges players to navigate a maze to find hidden treasures. The game is designed for 2 to 4 players and is recommended for ages 7 and up. Labyrinth is a fun and challenging game that will keep players entertained for hours.
+
+QET105, TNG106, 3, Hasbro, Transformers: Cyberverse Ultimate Class, 35, 6+, Action Figure, 1, The Transformers: Cyberverse Ultimate Class action figure is perfect for fans of the Transformers franchise. The figure stands at 11 inches tall and is highly detailed, with a number of different points of articulation. The figure is recommended for ages 6 and up.
+
+NYC106, TNG106, 12, Mattel, Hot Wheels, 5, 3+, Toy Car, 1, Hot Wheels is a classic toy car brand that has been around for decades. The cars are highly detailed and come in a variety of styles and colors. Hot Wheels cars are perfect for kids who love cars and are recommended for ages 3 and up.
+
+DXB108, TNG106, 6, Play-Doh, Fun Factory Deluxe Set, 25, 3+, Arts & Crafts, 1+, The Play-Doh Fun Factory Deluxe Set is perfect for little artists aged 3 years and up. This set comes with everything they need to create endless imaginative shapes and designs with Play-Doh.
+
+KAR101, TNG106, 20, Spin Master, Hatchimals Colleggtibles, 8, 5+, Collectible Toy, 1-2, Hatchimals Colleggtibles are the ultimate collectible toy for kids aged 5 years and up. With 20 in stock, you can start your collection today and trade with your friends for even more fun.
+
+LAH102, TNG106, 4, Hasbro, Speak Out, 20, 16+, Party Game, 4-10, Get ready for some laughs with the hilarious party game Speak Out! Perfect for groups of 4-10 players aged 16 years and up.
+
+ISB103, TNG106, 18, Lego, Ninjago Legacy Monastery of Spinjitzu, 80, 9+, Building Set, 1, Lego's Ninjago Legacy Monastery of Spinjitzu set is a must-have for any Lego lover aged 9 years and up. This intricate building set comes with 18 in stock and will provide hours of fun.
+
+PEW104, TNG106, 10, Mattel, Apples to Apples, 15, 12+, Party Game, 4-10, Apples to Apples is the perfect party game for ages 12 years and up. With 10 in stock, you can play with a group of 4-10 friends and family.
+
+QET105, TNG106, 7, Spin Master, Owleez, 40, 6+, Interactive Toy, 1, Owleez is the interactive toy every kid aged 6 years and up wants. With 7 in stock, you can adopt your very own Owleez and watch it grow and learn.
+
+DXB108, TNG106, 9, Crayola, Inspiration Art Case, 20, 5+, Arts & Crafts, 1+, Crayola's Inspiration Art Case is perfect for budding artists aged 5 years and up. With 9 in stock, this set includes everything they need to create their next masterpiece.
+
+KAR101, TNG106, 14, Mattel, Pictionary, 25, 8+, Party Game, 3-16, Pictionary is the classic party game that everyone loves. Perfect for ages 8 years and up, this game is great for groups of 3-16 players.
+
+LAH102, TNG106, 2, Playmobil, DreamWorks Dragons Hiccup and Toothless, 25, 4+, Playset, 1, Join Hiccup and Toothless on their next adventure with this Playmobil playset. Perfect for kids aged 4 years and up, this set comes with 2 in stock and will provide endless imaginative play.
+
+ISB103, TNG106, 6, Lego, Star Wars Mos Eisley Cantina, 350, 18+, Building Set, 1, For the ultimate Star Wars fan aged 18 years and up, Lego's Mos Eisley Cantina building set is a must-have. With 6 in stock, this set will provide hours of challenging building fun
+
+PEW104, TNG106, 11, Ravensburger, Disney Villainous, 25, 10+, Board Game, 2-6, In this exciting board game, players take on the roles of popular Disney villains and try to achieve their own unique objective to win the game. Will you play as Maleficent and curse the heroes, or as Jafar and steal the magic lamp? With multiple ways to win and interactive game pieces, the fun never stops!
+
+QET105, TNG106, 5, Spin Master, Etch A Sketch, 15, 3+, Drawing Toy, 1, The classic drawing toy that's been around for decades is back and better than ever! With the Etch A Sketch, you can draw anything you can imagine using the two knobs to move the stylus and create lines on the screen. Want to start over? Simply shake the toy to erase everything and start again! Great for developing creativity and fine motor skills.
+
+NYC106, TNG106, 1, Hasbro, Monopoly: Fortnite Edition, 20, 13+, Board Game, 2-7, Experience the world of Fortnite in a whole new way with Monopoly: Fortnite Edition! Buy, sell, and trade locations inspired by the popular video game and take control of Storm Circles to earn rewards. Battle your opponents and avoid the Storm to be the last one standing and win the game! With unique Fortnite twists and gameplay, it's a must-have for fans of the game.

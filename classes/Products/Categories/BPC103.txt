@@ -1,0 +1,67 @@
+//Responding Query For Beauty and Personal Care Category
+
+First Format (string,string,int,string,string,int,string,string,string,string,string) 
+values correspongs to these attributes (Inventory_ID,productID,stock,Brand/Company,Name,Price,Type of Product, ingrediants, sking_hair_type, scent, Description).
+
+Don't be vague, be specific 
+Don't mess up the format
+Don't use "" for the string
+
+Generate only the 2 line or more description of each enlisted item and use First format for output with comma separation.
+
+KAR101, BPC103, 10, Dove, Moisturizing Body Wash, 449, Body Wash, Glycerin, All Skin Types, Cucumber & Green Tea Scent
+LAH102, BPC103, 20, Nivea, Refreshing Body Wash, 349, Body Wash, Menthol, All Skin Types, Cool Menthol Scent
+ISB103, BPC103, 15, Olay, Ultra Moisture Body Wash, 599, Body Wash, Shea Butter, Dry Skin, Shea Butter Scent
+PEW104, BPC103, 25, Johnson's, Body Wash with Relaxing Fragrance, 399, Body Wash, Lavender, All Skin Types, Lavender Scent
+QET105, BPC103, 12, St. Ives, Coconut & Orchid Body Wash, 299, Body Wash, Coconut Milk, All Skin Types, Coconut & Orchid Scent
+NYC106, BPC103, 18, Neutrogena, Rainbath Refreshing Shower Gel, 699, Shower Gel, Vitamin E, All Skin Types, Rainbath Scent
+DXB108, BPC103, 30, Lux, Velvet Touch Moisturizing Body Wash, 199, Body Wash, Jasmine & Almond Oil, All Skin Types, Jasmine & Almond Scent
+KAR101, BPC103, 8, The Body Shop, Strawberry Shower Gel, 999, Shower Gel, Strawberry Extract, All Skin Types, Strawberry Scent
+LAH102, BPC103, 6, L'Occitane, Almond Shower Oil, 2999, Shower Oil, Almond Oil, All Skin Types, Almond Scent
+ISB103, BPC103, 5, Bioderma, Atoderm Shower Oil, 1899, Shower Oil, Glycerin, Dry and Sensitive Skin, Neutral Scent
+PEW104, BPC103, 22, Cetaphil, Restoraderm Skin Restoring Body Wash, 1099, Body Wash, Filaggrin, Dry and Sensitive Skin, Unscented
+QET105, BPC103, 13, Aveeno, Skin Relief Body Wash, 799, Body Wash, Colloidal Oatmeal, Dry and Itchy Skin, Soothing Oatmeal Scent
+NYC106, BPC103, 17, Avene, XeraCalm A.D Lipid-Replenishing Cleansing Oil, 1599, Cleansing Oil, I-modulia, Dry and Itchy Skin, Unscented
+DXB108, BPC103, 29, Vaseline, Intensive Care Advanced Repair Unscented Lotion, 499, Body Lotion, Glycerin, All Skin Types, Unscented
+KAR101, BPC103, 7, Jergens, Ultra Healing Extra Dry Skin Moisturizer, 599, Body Lotion, Vitamins C, E and B5, Extra Dry Skin, Cherry-Almond Scent
+LAH102, BPC103, 4, Bath & Body Works, A Thousand Wishes Ultra Shea Body Cream, 1499, Body Cream, Shea Butter, All Skin Types, A Thousand Wishes Scent
+ISB103, BPC103, 3, Kiehl's, Creme de Corps Whipped Body Butter, 3699, Body Butter, Shea Butter, All Skin Types, Unscented
+PEW104, BPC103, 21, Palmer's, Cocoa Butter Formula Daily Skin Therapy Body Lotion, 499, Body Lotion, Shea Butter, All Skin Types, Unscented
+
+Output for Desciption
+
+KAR101, BPC103, 10, Dove, Moisturizing Body Wash, 449, Body Wash, Glycerin, All Skin Types, Cucumber & Green Tea Scent. Pamper your skin with Dove Moisturizing Body Wash, infused with glycerin to provide deep hydration and leave you feeling refreshed. Suitable for all skin types, its cucumber and green tea scent will uplift your senses.
+
+LAH102, BPC103, 20, Nivea, Refreshing Body Wash, 349, Body Wash, Menthol, All Skin Types, Cool Menthol Scent. Nivea Refreshing Body Wash is the perfect way to invigorate your senses and leave your skin feeling refreshed. With a cool menthol scent and suitable for all skin types, it will leave you feeling revitalized and energized.
+
+ISB103, BPC103, 15, Olay, Ultra Moisture Body Wash, 599, Body Wash, Shea Butter, Dry Skin, Shea Butter Scent. Olay Ultra Moisture Body Wash is perfect for dry skin, with its luxurious shea butter formula that deeply hydrates and nourishes the skin. Its indulgent shea butter scent will leave you feeling pampered and rejuvenated.
+
+PEW104, BPC103, 25, Johnson's, Body Wash with Relaxing Fragrance, 399, Body Wash, Lavender, All Skin Types, Lavender Scent. Indulge in the soothing and calming scent of lavender with Johnson's Body Wash with Relaxing Fragrance. Suitable for all skin types, it will leave you feeling relaxed and rejuvenated after a long day.
+
+QET105, BPC103, 12, St. Ives, Coconut & Orchid Body Wash, 299, Body Wash, Coconut Milk, All Skin Types, Coconut & Orchid Scent. Transport yourself to a tropical paradise with St. Ives Coconut & Orchid Body Wash, infused with nourishing coconut milk and the exotic scent of orchids. Suitable for all skin types, it will leave you feeling refreshed and rejuvenated.
+
+NYC106, BPC103, 18, Neutrogena, Rainbath Refreshing Shower Gel, 699, Shower Gel, Vitamin E, All Skin Types, Rainbath Scent. Neutrogena Rainbath Refreshing Shower Gel is the perfect way to start your day, with its nourishing vitamin E formula and refreshing Rainbath scent. Suitable for all skin types, it will leave you feeling revitalized and ready to take on the day.
+
+DXB108, BPC103, 30, Lux, Velvet Touch Moisturizing Body Wash, 199, Body Wash, Jasmine & Almond Oil, All Skin Types, Jasmine & Almond Scent. Lux Velvet Touch Moisturizing Body Wash is a luxurious way to pamper your skin, with its indulgent jasmine and almond oil formula. Suitable for all skin types, it will leave you feeling silky smooth and hydrated.
+
+KAR101, BPC103, 8, The Body Shop, Strawberry Shower Gel, 999, Shower Gel, Strawberry Extract, All Skin Types, Strawberry Scent. Treat your senses to the sweet and fruity scent of strawberries with The Body Shop Strawberry Shower Gel. Suitable for all skin types, its moisturizing formula will leave you feeling refreshed and invigorated.
+
+LAH102, BPC103, 6, L'Occitane, Almond Shower Oil, 2999, Shower Oil, Almond Oil, All Skin Types, Almond Scent. Indulge in the luxurious L'Occitane Almond Shower Oil, infused with nourishing almond oil and a sweet almond scent. Suitable for all skin types, it is well created for the shower purposes.
+
+ISB103, BPC103, 5, Bioderma, Atoderm Shower Oil, 1899, Shower Oil, Glycerin-based formula gently cleanses and moisturizes dry and sensitive skin, leaving it soft and supple with a neutral scent.
+
+PEW104, BPC103, 22, Cetaphil, Restoraderm Skin Restoring Body Wash, 1099, Body Wash, Filaggrin-enriched formula restores skin's natural moisture barrier, ideal for dry and sensitive skin, fragrance-free and non-irritating.
+
+QET105, BPC103, 13, Aveeno, Skin Relief Body Wash, 799, Body Wash, Colloidal oatmeal formula soothes and hydrates dry and itchy skin, while providing a calming oatmeal scent.
+
+NYC106, BPC103, 17, Avene, XeraCalm A.D Lipid-Replenishing Cleansing Oil, 1599, Cleansing Oil, I-modulia enriched formula gently cleanses and moisturizes dry and itchy skin, without stripping the skin's natural oils.
+
+DXB108, BPC103, 29, Vaseline, Intensive Care Advanced Repair Unscented Lotion, 499, Body Lotion, Glycerin-based formula deeply moisturizes and repairs all skin types, fragrance-free and fast-absorbing.
+
+KAR101, BPC103, 7, Jergens, Ultra Healing Extra Dry Skin Moisturizer, 599, Body Lotion, Vitamin C, E and B5 enriched formula nourishes and repairs extra dry skin, leaving it soft and hydrated with a delightful cherry-almond scent.
+
+LAH102, BPC103, 4, Bath & Body Works, A Thousand Wishes Ultra Shea Body Cream, 1499, Body Cream, Shea butter and cocoa butter enriched formula provides deep moisture and nourishment for all skin types, with a sweet A Thousand Wishes fragrance.
+
+ISB103, BPC103, 3, Kiehl's, Creme de Corps Whipped Body Butter, 3699, Body Butter, Shea butter enriched formula deeply hydrates and nourishes all skin types, leaving skin soft and supple with a non-greasy, fragrance-free finish.
+
+PEW104, BPC103, 21, Palmer's, Cocoa Butter Formula Daily Skin Therapy Body Lotion, 499, Body Lotion, Shea butter and cocoa butter enriched formula provides 24-hour moisture and nourishment for all skin types, fragrance-free and fast-absorbing.

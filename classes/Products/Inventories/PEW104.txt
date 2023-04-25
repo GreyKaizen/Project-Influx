@@ -1,0 +1,19 @@
+PEW104,AUT108,1,Toyota,Prado,50000,TZ-G,SUV,4.0,2016
+PEW104,AUT108,1,Audi,A4,35000,2.0T Premium,Sedan,2.0,2017
+PEW104, BPC103, 25, Johnson's, Body Wash with Relaxing Fragrance, 399, Body Wash, Lavender, All Skin Types, Lavender Scent
+PEW104, BPC103, 22, Cetaphil, Restoraderm Skin Restoring Body Wash, 1099, Body Wash, Filaggrin, Dry and Sensitive Skin, Unscented
+PEW104, BPC103, 21, Palmer's, Cocoa Butter Formula Daily Skin Therapy Body Lotion, 499, Body Lotion, Shea Butter, All Skin Types, Unscented
+PEW104, ELC101, 10, HP, Omen 15, 118999, 15-ek1017TX, 15.6, 16, 1TB
+PEW104, ELC101, 6, Realme, Narzo 30 Pro, 16999, RMX3161, 6.5, 8, 128
+PEW104, ELC101, 9, Sony, WH-1000XM4, 24990, WH-1000XM4/B, 0, 0, 0
+PEW104, ELC101, 15, Wireless Bluetooth Speaker, 4999, WS-01, 0, 0, 0
+PEW104, FSH102, 15, Adidas, Men's Black Joggers, 4499, XL, Black, Polyester, Sportswear
+PEW104, FSH102, 20, Gucci, Men's Brown Belt, 10999, 36, Brown, Leather, Formal
+PEW104, PET107, 5, Best Friends, Cat Litter, 9.99, Litter, Cat, Adult
+PEW104, PET107, 10, Best Friends, Dog Food, 24.99, Dry Food, Dog, Adult
+PEW104, SPO104, 4, Reebok, Classic Leather, 6999, 11, White, Leather, Casual
+PEW104, SPO104, 3, New Balance, 990v5, 10999, 9, Grey, Mesh, Running
+PEW104, SPO104, 5, Adidas, NMD_R1, 10999, 9, White, Mesh, Casual
+PEW104, TNG106, 8, Ravensburger, Labyrinth, 20, 7+, Board Game, 2-4
+PEW104, TNG106, 10, Mattel, Apples to Apples, 15, 12+, Party Game, 4-10
+PEW104, TNG106, 11, Ravensburger, Disney Villainous, 25, 10+, Board Game, 2-6

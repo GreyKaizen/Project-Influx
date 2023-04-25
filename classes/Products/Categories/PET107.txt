@@ -1,0 +1,67 @@
+//Responding Query For Pet
+
+Second Format (string,string,int,string,string,int,string,string,string,string) 
+values correspongs to these attributes (Inventory_ID,productID,stock,Brand/Company,Name,Price,type_of_product, animal_type, age_range, description)
+
+Enlist only the products that qualify all the attributes of first format
+Don't be vague, be specific 
+Don't mess up the format
+Don't use "" for the string
+
+Generate only the 2 line or more description of each enlisted item and use Second format for output with comma separation.
+
+
+KAR101, PET107, 15, Furry Friends, Premium Cat Food, 20.99, Dry Food, Cat, Adult
+NYC106, PET107, 10, Paws and Claws, Dog Treats, 5.99, Treats, Dog, All ages
+DXB108, PET107, 25, Happy Paws, Small Dog Harness, 15.99, Harness, Dog, Small
+PEW104, PET107, 5, Best Friends, Cat Litter, 9.99, Litter, Cat, Adult
+LAH102, PET107, 8, Purrfect Pet Supply, Catnip Toy, 3.99, Toy, Cat, Kitten
+ISB103, PET107, 20, Woof Wag Walk, Large Dog Bed, 49.99, Bed, Dog, Adult
+KAR101, PET107, 12, Happy Tails, Dog Shampoo, 12.99, Shampoo, Dog, All ages
+QET105, PET107, 30, Bark Avenue, Dog Leash, 9.99, Leash, Dog, Medium
+NYC106, PET107, 7, Furry Friends, Cat Scratching Post, 39.99, Scratching Post, Cat, Adult
+DXB108, PET107, 18, Paws and Claws, Cat Toy Set, 19.99, Toy, Cat, All ages
+PEW104, PET107, 10, Best Friends, Dog Food, 24.99, Dry Food, Dog, Adult
+LAH102, PET107, 6, Purrfect Pet Supply, Cat Litter Box, 29.99, Litter Box, Cat, Adult
+ISB103, PET107, 4, Woof Wag Walk, Dog Carrier, 49.99, Carrier, Dog, Small
+KAR101, PET107, 25, Happy Paws, Dog Poop Bags, 6.99, Poop Bags, Dog, All ages
+QET105, PET107, 10, Bark Avenue, Dog Collar, 14.99, Collar, Dog, Small
+NYC106, PET107, 20, Furry Friends, Cat Food, 12.99, Wet Food, Cat, Adult
+
+Output for the Description
+
+KAR101, PET107, 15, Furry Friends, Premium Cat Food, 20.99, Dry Food, Cat, Adult, A nutritious and delicious meal for your adult cat, Furry Friends Premium Cat Food is made with high-quality ingredients to support your feline friend's health.
+
+NYC106, PET107, 10, Paws and Claws, Dog Treats, 5.99, Treats, Dog, All ages, Reward your furry friend with Paws and Claws Dog Treats. Made with natural ingredients, these treats are perfect for dogs of all ages.
+
+DXB108, PET107, 25, Happy Paws, Small Dog Harness, 15.99, Harness, Dog, Small, Keep your furry friend safe and secure with the Happy Paws Small Dog Harness. Made with durable materials and an adjustable design, this harness is perfect for small dogs.
+
+PEW104, PET107, 5, Best Friends, Cat Litter, 9.99, Litter, Cat, Adult, Make cleaning up after your cat a breeze with Best Friends Cat Litter. This premium litter is designed to absorb odors and keep your home smelling fresh.
+
+LAH102, PET107, 8, Purrfect Pet Supply, Catnip Toy, 3.99, Toy, Cat, Kitten, Keep your kitten entertained for hours with Purrfect Pet Supply Catnip Toy. Made with high-quality materials and filled with premium catnip, this toy is sure to be a hit with your furry friend.
+
+ISB103, PET107, 20, Woof Wag Walk, Large Dog Bed, 49.99, Bed, Dog, Adult, Give your dog a comfortable place to rest with the Woof Wag Walk Large Dog Bed. Made with soft and supportive materials, this bed is perfect for adult dogs.
+
+KAR101, PET107, 12, Happy Tails, Dog Shampoo, 12.99, Shampoo, Dog, All ages, Keep your furry friend's coat clean and shiny with Happy Tails Dog Shampoo. Made with natural ingredients and gentle cleansers, this shampoo is perfect for dogs of all ages.
+
+QET105, PET107, 30, Bark Avenue, Dog Leash, 9.99, Leash, Dog, Medium, Take your furry friend for a walk in style with Bark Avenue Dog Leash. Made with durable materials and a comfortable design, this leash is perfect for medium-sized dogs.
+
+NYC106, PET107, 7, Furry Friends, Cat Scratching Post, 39.99, Scratching Post, Cat, Adult, Protect your furniture and give your cat a place to scratch with Furry Friends Cat Scratching Post. Made with high-quality materials and a sturdy design, this scratching post is perfect for adult cats.
+
+DXB108, PET107, 18, Paws and Claws, Cat Toy Set, 19.99, Toy, Cat, All ages, Keep your furry friend entertained for hours with Paws and Claws Cat Toy Set. This set includes a variety of toys designed to stimulate your cat's senses and keep them active.
+
+PEW104, PET107, 10, Best Friends, Dog Food, 24.99, Dry Food, Dog, Adult, Keep your furry friend healthy and happy with Best Friends Dog Food. Made with high-quality ingredients and packed with essential nutrients, this dry food is perfect for adult dogs
+
+LAH102, PET107, 6, Purrfect Pet Supply, Cat Litter Box, 29.99, Litter Box, Cat, Adult, The Purrfect Pet Supply Cat Litter Box is the perfect solution for your feline friend's needs. With its spacious design and durable construction, this litter box is ideal for adult cats of all ages. The box is easy to clean and maintain, ensuring that your cat always has a clean and comfortable place to go.
+
+ISB103, PET107, 4, Woof Wag Walk, Dog Carrier, 49.99, Carrier, Dog, Small, The Woof Wag Walk Dog Carrier is the perfect accessory for small dogs. This carrier is designed to keep your furry friend safe and comfortable while on the go. The carrier is made from high-quality materials and features a soft and cozy interior that your dog will love. It is also lightweight and easy to carry, making it perfect for trips to the vet or travel.
+
+KAR101, PET107, 25, Happy Paws, Dog Poop Bags, 6.99, Poop Bags, Dog, All ages, Happy Paws Dog Poop Bags are a must-have for any responsible dog owner. These bags are made from high-quality materials and are designed to be strong and durable. They are also easy to use, with a convenient dispenser that allows you to quickly and easily grab a bag whenever you need one. And with 25 bags in each pack, you'll always have plenty on hand.
+
+QET105, PET107, 10, Bark Avenue, Dog Collar, 14.99, Collar, Dog, Small, The Bark Avenue Dog Collar is the perfect accessory for small dogs. Made from high-quality materials, this collar is durable and comfortable for your furry friend to wear. The collar is adjustable, allowing you to find the perfect fit, and features a secure buckle that ensures your dog stays safe and secure at all times.
+
+NYC106, PET107, 20, Furry Friends, Cat Food, 12.99, Wet Food, Cat, Adult, Furry Friends Cat Food is made from high-quality ingredients and is the perfect choice for adult cats. This wet food is delicious and nutritious, providing your cat with all the essential vitamins and nutrients they need to stay healthy and happy. And with 20 cans in each pack, you'll have plenty of food to keep your furry friend satisfied.
+
+
+
+

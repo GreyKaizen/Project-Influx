@@ -1,0 +1,73 @@
+//Responding Query For Sports and Outdoor Category
+
+First Format (string,string,int,string,string,int,string,string,string,string,string) 
+values correspongs to these attributes (Inventory_ID,productID,stock,Brand/Company,Name,Price,size, color, material, sport_activity_type,Description).
+
+Don't be vague, be specific 
+Don't mess up the format
+Don't use "" for the string
+
+Generate only the 2 line or 3 line description of each enlisted item and use First format for output with comma separation.
+
+KAR101, SPO104, 8, Nike, Air Max 270, 10999, 9, Black, Synthetic, Running
+NYC106, SPO104, 12, Adidas, Ultra Boost, 12999, 10, Grey, Mesh, Running
+LAH102, SPO104, 6, Puma, Future Rider, 7999, 8, White, Synthetic, Casual
+ISB103, SPO104, 10, Under Armour, HOVR Sonic, 9999, 9, Navy Blue, Mesh, Running
+PEW104, SPO104, 4, Reebok, Classic Leather, 6999, 11, White, Leather, Casual
+DXB108, SPO104, 5, ASICS, Gel-Kayano 28, 11999, 10, Black, Mesh, Running
+KAR101, SPO104, 7, Nike, Air Force 1, 8999, 9, Red, Leather, Casual
+LAH102, SPO104, 9, Adidas, Superstar, 9999, 8, Black, Leather, Casual
+NYC106, SPO104, 11, Puma, Suede Classic, 7999, 10, Blue, Suede, Casual
+PEW104, SPO104, 3, New Balance, 990v5, 10999, 9, Grey, Mesh, Running
+QET105, SPO104, 15, Asics, Gel-Nimbus 23, 12999, 11, Black, Synthetic, Running
+LAH102, SPO104, 8, Adidas, Ultraboost 21, 11999, 9, White, Mesh, Running
+ISB103, SPO104, 6, Nike, Air Zoom Pegasus 38, 9999, 10, Grey, Mesh, Running
+KAR101, SPO104, 4, Puma, Cali, 7999, 8, Pink, Leather, Casual
+NYC106, SPO104, 10, Reebok, Nano 9, 8999, 11, Black, Synthetic, Training
+DXB108, SPO104, 7, Under Armour, HOVR Phantom, 11999, 10, Grey, Mesh, Running
+PEW104, SPO104, 5, Adidas, NMD_R1, 10999, 9, White, Mesh, Casual
+QET105, SPO104, 12, New Balance, Fresh Foam 1080v11, 11999, 11, Black, Mesh, Running
+NYC106, SPO104, 9, ASICS, Gel-Kayano 27, 11999, 8, Blue, Mesh, Running
+KAR101, SPO104, 10, Nike, Air Zoom Winflo 8, 8999, 9, White, Synthetic, Running
+
+Output for the Description
+
+KAR101, SPO104, 8, Nike, Air Max 270, 10999, 9, Black, Synthetic, Running, The Nike Air Max 270 is the perfect running shoe for those seeking both comfort and style. The sleek black synthetic design offers a versatile look, while the Air Max sole provides cushioned support for every stride.
+
+NYC106, SPO104, 12, Adidas, Ultra Boost, 12999, 10, Grey, Mesh, Running, Take your running game to the next level with the Adidas Ultra Boost. The shoe features a breathable grey mesh upper and a comfortable fit. The Boost technology ensures a responsive ride with every step.
+
+LAH102, SPO104, 6, Puma, Future Rider, 7999, 8, White, Synthetic, Casual, For a comfortable and casual look, the Puma Future Rider is the way to go. The white synthetic upper is contrasted by bold black and pink accents, making it a standout shoe in any setting.
+
+ISB103, SPO104, 10, Under Armour, HOVR Sonic, 9999, 9, Navy Blue, Mesh, Running, The Under Armour HOVR Sonic is the perfect shoe for runners seeking a responsive and comfortable ride. The navy blue mesh upper is both stylish and functional, providing both breathability and support.
+
+PEW104, SPO104, 4, Reebok, Classic Leather, 6999, 11, White, Leather, Casual, A timeless classic, the Reebok Classic Leather is a must-have for any casual wardrobe. The clean white leather upper pairs well with any outfit, while the comfortable fit makes it a go-to shoe for everyday wear.
+
+DXB108, SPO104, 5, ASICS, Gel-Kayano 28, 11999, 10, Black, Mesh, Running, For a premium running experience, the ASICS Gel-Kayano 28 is the way to go. The shoe features a sleek black mesh upper and Gel technology for maximum support and comfort during long runs.
+
+KAR101, SPO104, 7, Nike, Air Force 1, 8999, 9, Red, Leather, Casual, Make a statement with the iconic Nike Air Force 1. The red leather upper adds a pop of color to any outfit, while the comfortable fit makes it perfect for everyday wear.
+
+LAH102, SPO104, 9, Adidas, Superstar, 9999, 8, Black, Leather, Casual, The Adidas Superstar is a classic shoe that never goes out of style. The black leather upper pairs well with any outfit, while the comfortable fit makes it perfect for daily wear.
+
+NYC106, SPO104, 11, Puma, Suede Classic, 7999, 10, Blue, Suede, Casual, For a retro and stylish look, the Puma Suede Classic is a great option. The blue suede upper and classic Puma design make it a perfect shoe for any casual occasion.
+
+PEW104, SPO104, 3, New Balance, 990v5, 10999, 9, Grey, Mesh, Running, For runners seeking both comfort and style, the New Balance 990v5 is the perfect shoe. The grey mesh upper offers both breathability and support, while the sleek design makes it a fashionable choice.
+
+QET105, SPO104, 15, Asics, Gel-Nimbus 23, 12999, 11, Black, Synthetic, Running, The Asics Gel-Nimbus 23 is the ultimate running shoe for those seeking maximum cushioning and support. The black synthetic upper offers a sleek look.
+
+LAH102,SPO104,8,Adidas,Ultraboost 21,11999,9,White,Mesh,Running,The Adidas Ultraboost 21 is a high-performance running shoe designed to provide maximum comfort and support for runners. The shoe features a breathable mesh upper and a responsive Boost midsole that delivers a cushioned ride. The white colorway adds a sleek and stylish look to the shoe.
+
+ISB103,SPO104,6,Nike,Air Zoom Pegasus 38,9999,10,Grey,Mesh,Running,The Nike Air Zoom Pegasus 38 is a top-of-the-line running shoe that is designed to provide optimal performance for runners. The shoe features a breathable mesh upper and a responsive Zoom Air unit in the forefoot that provides a cushioned and responsive ride. The grey colorway gives the shoe a modern and stylish look.
+
+KAR101,SPO104,4,Puma,Cali,7999,8,Pink,Leather,Casual,The Puma Cali is a classic sneaker that combines retro style with modern comfort. The shoe features a sleek leather upper and a cushioned midsole for added comfort. The pink colorway adds a pop of color to the shoe and makes it a great option for casual wear.
+
+NYC106,SPO104,10,Reebok,Nano 9,8999,11,Black,Synthetic,Training,The Reebok Nano 9 is a versatile training shoe that is designed to provide stability and support during high-intensity workouts. The shoe features a synthetic upper that is both durable and breathable, and a cushioned midsole that helps absorb shock. The black colorway gives the shoe a sleek and stylish look.
+
+DXB108,SPO104,7,Under Armour,HOVR Phantom,11999,10,Grey,Mesh,Running,The Under Armour HOVR Phantom is a high-performance running shoe that is designed to deliver maximum comfort and support for runners. The shoe features a breathable mesh upper and a responsive HOVR midsole that delivers a cushioned and responsive ride. The grey colorway gives the shoe a sleek and modern look.
+
+PEW104,SPO104,5,Adidas,NMD_R1,10999,9,White,Mesh,Casual,The Adidas NMD_R1 is a stylish and comfortable sneaker that is perfect for everyday wear. The shoe features a breathable mesh upper and a responsive Boost midsole that delivers a cushioned and supportive ride. The white colorway gives the shoe a clean and minimalist look.
+
+QET105,SPO104,12,New Balance,Fresh Foam 1080v11,11999,11,Black,Mesh,Running,The New Balance Fresh Foam 1080v11 is a premium running shoe that is designed to provide maximum comfort and support for runners. The shoe features a breathable mesh upper and a responsive Fresh Foam midsole that delivers a cushioned and supportive ride. The black colorway gives the shoe a sleek and modern look.
+
+NYC106,SPO104,9,ASICS,Gel-Kayano 27,11999,8,Blue,Mesh,Running,The ASICS Gel-Kayano 27 is a high-performance running shoe that is designed to provide stability and support for runners. The shoe features a breathable mesh upper and a responsive Gel midsole that delivers a cushioned and supportive ride. The blue colorway gives the shoe a pop of color and makes it a stylish option for runners.
+
+KAR101,SPO104,10,Nike,Air Zoom Winflo 8,8999,9,White,Synthetic,Running,The Nike Air Zoom Winflo 8 is a lightweight and responsive running shoe that is designed to provide comfy functionality.

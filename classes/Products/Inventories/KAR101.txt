@@ -1,0 +1,28 @@
+Enlist the product with this Inventory_ID : KAR101
+
+Output :
+
+KAR101,AUT108,3,Toyota,Corolla,20000,XLI,Sedan,1.6,2015
+KAR101,AUT108,2,Toyota,Camry,32000,Hybrid LE,Sedan,2.5,2021
+KAR101, PET107, 15, Furry Friends, Premium Cat Food, 20.99, Dry Food, Cat, Adult
+KAR101, PET107, 12, Happy Tails, Dog Shampoo, 12.99, Shampoo, Dog, All ages
+KAR101, PET107, 25, Happy Paws, Dog Poop Bags, 6.99, Poop Bags, Dog, All ages
+KAR101, TNG106, 10, Hasbro, Monopoly, 30, 8+, Board Game, 2-8
+KAR101, TNG106, 20, Spin Master, Hatchimals Colleggtibles, 8, 5+, Collectible Toy, 1-2
+KAR101, TNG106, 14, Mattel, Pictionary, 25, 8+, Party Game, 3-16
+KAR101, MED105, 50, Pfizer, Aspirin, 5.99, Tablet, 500mg, 06/2025
+KAR101, MED105, 100, Johnson & Johnson, Motrin, 7.99, Tablet, 400mg, 11/2024
+KAR101, MED105, 40, Pfizer, Lipitor, 18.99, Tablet, 40mg, 11/2022
+KAR101, MED105, 120, Pfizer, Sudafed, 12.99, Tablet, 30mg, 07/2023
+KAR101, SPO104, 8, Nike, Air Max 270, 10999, 9, Black, Synthetic, Running
+KAR101, SPO104, 7, Nike, Air Force 1, 8999, 9, Red, Leather, Casual
+KAR101, SPO104, 4, Puma, Cali, 7999, 8, Pink, Leather, Casual
+KAR101, SPO104, 10, Nike, Air Zoom Winflo 8, 8999, 9, White, Synthetic, Running
+KAR101, BPC103, 10, Dove, Moisturizing Body Wash, 449, Body Wash, Glycerin, All Skin Types, Cucumber & Green Tea Scent
+KAR101, BPC103, 8, The Body Shop, Strawberry Shower Gel, 999, Shower Gel, Strawberry Extract, All Skin Types, Strawberry Scent
+KAR101, BPC103, 7, Jergens, Ultra Healing Extra Dry Skin Moisturizer, 599, Body Lotion, Vitamins C, E and B5, Extra Dry Skin, Cherry-Almond Scent
+KAR101, FSH102, 20, Forever 21, Women's Floral Skirt, 2999, S, Floral, Cotton, A-Line
+KAR101, FSH102, 15, Forever 21, Women's Green Top, 2499, XS, Green, Chiffon, Casual
+KAR101, ELC101, 15, Samsung, Galaxy Tab S7+, 76999, SM-T970NZKAINU, 12.4, 8, 128
+KAR101, ELC101, 8, Lenovo, IdeaPad Slim 5, 46990, 82FE00KAIN, 14, 8, 512
+KAR101, ELC101, 14, Samsung, Galaxy Watch 3, 32999, SM-R850NZDAINU, 1.2, 0, 8

@@ -1,55 +1,49 @@
-# Project-Influx
-Using the Concepts of OOP Paradigm to Create a Virtual Marketplace to Sell and Buy Items
+# Buying and Selling Terminal Application
 
-Project Overview:
+This is a C++ project that uses Object-Oriented Programming (OOP) to create a terminal-based application for buying and selling products. The application stores all data in text files and uses file handling to read and write data to these files. The main classes used in the project are Buyer, Seller, Product, Inventory, Person, Admin, Guest, Session.
 
-The Console-based Market Place is a platform that connects buyers and sellers in
-a virtual market place. The platform will allow buyers to browse through various
-shops and purchase items from the comfort of their homes. The shops will be able
-to showcase their products, manage their inventory and receive orders from the
-buyers. The platform will utilize the concepts of OOP paradigm like inheritance,
-abstractions, encapsulation, and polymorphism to provide a seamless experience
-for both buyers and sellers.
-Functionalities:
-Some detail on How will we be using the OOP paradigm in the Project Features.
-These are some of the Functionality, we might change or add more features as
-the project progress.
-• Shop Registration: Shops can register themselves on the platform by
-providing their details such as name, address, and type of products they
-sell.
-• Product Listing: Shops can add, edit, and delete products they want to sell
-on the platform.
-• Order Management: Shops can view, accept, and reject orders from buyers.
-• Inventory Management: Shops can manage their inventory and keep track
-of the stock of their products.
-• Product Search: Buyers can search for products based on various
-parameters like product name, category, shop, and price.
+## Project Overview
 
-• Product View: Buyers can view the details of a product such as description,
-price, and available quantity.
-• Add to Cart: Buyers can add products to their cart and proceed to checkout.
-• Checkout: Buyers can review their cart and proceed to make payment.
-• Payment Gateway: The platform will support different payment methods
-like debit/credit cards, net banking, and UPI.
-• Order History: Buyers can view the history of their orders and track their
-delivery status.
-• Delivery Management: Shops can manage the delivery of the orders to the
-buyers.
-• Shop Locator: Buyers can locate the shops near their location.
-• Customer Feedback: Buyers can provide feedback and ratings for the
-products and shops.
-• Sales Report: Shops can view the sales report of their products and
-understand the demand for their products.
-• Product Discounts: Shops can offer discounts on their products to attract
-more buyers.
-• Wishlist: Buyers can add products to their wishlist and purchase them later.
-• Newsletter: Buyers can subscribe to the newsletter of the platform to
-receive updates and offers.
-• Product Recommendation: The platform will provide product
-recommendations to the buyers based on their search and purchase
-history.
-• Multi-language Support: The platform will support multiple languages to
-cater to a wider audience.
-• User Authentication: The platform will provide user authentication to
-ensure the security of the user data.
-• User Role Management
+The project has the following functionalities:
+
+- Users can create accounts as either buyers or sellers.
+- Buyers can browse available products and purchase them.
+- Sellers can add new products, update existing products, and view their sales.
+- An inventory class keeps track of all available products.
+- Admins can view all users, products, and sales.
+- Guests can browse products but cannot make purchases or add new products.
+- User sessions are managed so that users can log in and out.
+
+## Object-Oriented Design
+
+The project uses OOP concepts effectively to create an organized and modular codebase. Here are some examples of how OOP concepts are used:
+
+- Inheritance: The Buyer, Seller, Admin, and Guest classes all inherit from the Person class, which contains common attributes like name and email.
+- Polymorphism: The Session class is polymorphic, meaning it can hold either a Buyer,Seller, or Guest object, depending on the current user's status.
+- Encapsulation: Each class has its own set of private and public members, which are encapsulated within the class to prevent outside access and ensure data integrity.
+- Abstraction: The Product class is an example of abstraction, as it represents a real-world object (a product) and abstracts away its implementation details from the rest of the program.
+
+## File Handling
+
+The project effectively uses file handling to read and write data to text files. Each user, product, and sale is stored in a separate text file, and the program reads and writes to these files as needed. This allows the program to persist data between sessions and ensures that data is not lost if the program crashes.
+
+## Getting Started
+
+To compile the project, run the following command in the terminal:
+`g++ -c .\FriendFunction.cpp .\Session.cpp .\Person.cpp .\Admin.cpp .\Guest.cpp .\Seller.cpp .\Buyer.cpp .\Inventory.cpp .\Product.cpp .\main.cpp`
+
+To create the executable file, run the following command:
+`g++ .\FriendFunction.o .\Session.o .\Person.o .\Admin.o .\Guest.o .\Seller.o .\Buyer.o .\Inventory.o .\Product.o .\main.o -o main`
+
+To run the program, use the following command:
+`.\main.exe .\main.out`
+
+Make sure to replace `main` with the name of your executable file if you have named it differently. Also, note that the `.out` file extension is not necessary for the `.\main.exe` command.
+
+## License
+
+This project is licensed under the GPL3.0 License. See the [LICENSE](LICENSE) file for details.
+
+## Conclusion
+
+This project is an excellent example of how OOP concepts and file handling can be used to create a well-organized and modular codebase. With its extensive set of features, this application can be extended to support additional functionality or adapted to fit specific use cases.

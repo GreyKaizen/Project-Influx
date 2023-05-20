@@ -1,0 +1,19 @@
+DXB108,AUT108,6,Honda,Accord,27000,VTI-L,Sedan,1.5,2020
+DXB108,AUT108,6,Ford,Mustang,50000,EcoBoost,Pony Car,2.3,2019
+DXB108, BPC103, 30, Lux, Velvet Touch Moisturizing Body Wash, 199, Body Wash, Jasmine & Almond Oil, All Skin Types, Jasmine & Almond Scent
+DXB108, BPC103, 29, Vaseline, Intensive Care Advanced Repair Unscented Lotion, 499, Body Lotion, Glycerin, All Skin Types, Unscented
+DXB108, ELC101, 12, Sony, Bravia X9000H, 124999, KD-65X9000H, 65, 4, 128
+DXB108, ELC101, 5, Acer, Nitro 5, 74999, AN515-56, 15.6, 8, 512
+DXB108, ELC101, 3, Apple, iPhone 13 Pro, 119900, MK2H3HN/A, 6.1, 6, 512
+DXB108, FSH102, 10, H&M, Women's Red Dress, 5999, S, Red, Polyester, A-Line
+DXB108, FSH102, 5, Zara, Men's Green Jacket, 8999, M, Green, Polyester, Bomber
+DXB108, FSH102, 5, Nike, Men's Red Hoodie, 6999, L, Red, Cotton, Sportswear
+DXB108, MED105, 75, Bayer, Aleve, 12.99, Tablet, 220mg, 12/2023
+DXB108, MED105, 60, GSK, Tums, 8.99, Chewable Tablet, 1000mg, 10/2023
+DXB108, MED105, 100, GSK, Robitussin, 8.99, Syrup, 4mg/5ml, 06/2023
+DXB108, PET107, 25, Happy Paws, Small Dog Harness, 15.99, Harness, Dog, Small
+DXB108, PET107, 18, Paws and Claws, Cat Toy Set, 19.99, Toy, Cat, All ages
+DXB108, SPO104, 5, ASICS, Gel-Kayano 28, 11999, 10, Black, Mesh, Running
+DXB108, SPO104, 7, Under Armour, HOVR Phantom, 11999, 10, Grey, Mesh, Running
+DXB108, TNG106, 6, Play-Doh, Fun Factory Deluxe Set, 25, 3+, Arts & Crafts, 1+
+DXB108, TNG106, 9, Crayola, Inspiration Art Case, 20, 5+, Arts & Crafts, 1+

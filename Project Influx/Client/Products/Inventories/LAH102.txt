@@ -1,0 +1,23 @@
+LAH102,AUT108,2,Honda,Civic,25000,VTI,Sedan,1.8,2018
+LAH102,AUT108,3,Nissan,Altima,26000,2.5 SR,Sedan,2.5,2019
+LAH102, BPC103, 20, Nivea, Refreshing Body Wash, 349, Body Wash, Menthol, All Skin Types, Cool Menthol Scent
+LAH102, BPC103, 6, L'Occitane, Almond Shower Oil, 2999, Shower Oil, Almond Oil, All Skin Types, Almond Scent
+LAH102, BPC103, 4, Bath & Body Works, A Thousand Wishes Ultra Shea Body Cream, 1499, Body Cream, Shea Butter, All Skin Types, A Thousand Wishes Scent
+LAH102, ELC101, 5, LG, OLED48C1PTB, 89999, OLED48C1PTB, 48, 8, 128
+LAH102, ELC101, 20, Apple, iPad Pro (2021), 92999, MHNW3HN/A, 11, 8, 128
+LAH102, ELC101, 20, Samsung, Galaxy A32, 20999, SM-A325FLKHINS, 6.4, 6, 128
+LAH102, ELC101, 7, Apple, AirPods Pro, 24999, MWP22HN/A, 0, 0, 0
+LAH102, FSH102, 30, Mango, Women's White Shirt, 2999, L, White, Cotton, Formal
+LAH102, FSH102, 40, Ralph Lauren, Men's White Polo Shirt, 5499, L, White, Cotton, Casual
+LAH102, FSH102, 10, Mango, Women's Brown Boots, 8999, 8, Brown, Leather, Ankle Boots
+LAH102, MED105, 200, Novartis, Excedrin, 7.99, Caplet, 250mg, 05/2024
+LAH102, MED105, 25, Pfizer, Zoloft, 20.99, Tablet, 50mg, 07/2024
+LAH102, MED105, 50, Pfizer, Prevacid, 15.99, Capsule, 15mg, 08/2022
+LAH102, PET107, 8, Purrfect Pet Supply, Catnip Toy, 3.99, Toy, Cat, Kitten
+LAH102, PET107, 6, Purrfect Pet Supply, Cat Litter Box, 29.99, Litter Box, Cat, Adult
+LAH102, SPO104, 6, Puma, Future Rider, 7999, 8, White, Synthetic, Casual
+LAH102, SPO104, 9, Adidas, Superstar, 9999, 8, Black, Leather, Casual
+LAH102, SPO104, 8, Adidas, Ultraboost 21, 11999, 9, White, Mesh, Running
+LAH102, TNG106, 5, Mattel, UNO, 10, 7+, Card Game, 2-10
+LAH102, TNG106, 4, Hasbro, Speak Out, 20, 16+, Party Game, 4-10
+LAH102, TNG106, 2, Playmobil, DreamWorks Dragons Hiccup and Toothless, 25, 4+, Playset, 1

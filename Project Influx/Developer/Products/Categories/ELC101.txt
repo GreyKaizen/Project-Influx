@@ -1,0 +1,31 @@
+ISB103, ELC101, 20, Apple, iPad Pro 11-inch, 89999, MY2J2HN/A, 11, 8, 256, The Apple iPad Pro 11-inch offers a powerful performance and excellent display quality for all your tablet needs.
+DXB108, ELC101, 12, Sony, Bravia X9000H, 124999, KD-65X9000H, 65, 4, 128, The Sony Bravia X9000H offers stunning visuals and immersive sound to elevate your home entertainment experience.
+LAH102, ELC101, 5, LG, OLED48C1PTB, 89999, OLED48C1PTB, 48, 8, 128, The LG OLED48C1PTB is a high-end TV with a sleek design and amazing picture quality for an immersive viewing experience.
+KAR101, ELC101, 15, Samsung, Galaxy Tab S7+, 76999, SM-T970NZKAINU, 12.4, 8, 128, The Samsung Galaxy Tab S7+ offers a stunning display and powerful performance for all your productivity and entertainment needs.
+LAH102, ELC101, 20, Apple, iPad Pro (2021), 92999, MHNW3HN/A, 11, 8, 128, The Apple iPad Pro (2021) is a versatile tablet with excellent performance and features to enhance your workflow and entertainment experience.
+ISB103, ELC101, 30, Sony, Bravia X7500H, 73999, KD-55X7500H, 55, 2, 16, The Sony Bravia X7500H offers good picture quality and sound at an affordable price for a satisfying home entertainment experience.
+PEW104, ELC101, 10, HP, Omen 15, 118999, 15-ek1017TX, 15.6, 16, 1024, The HP Omen 15 is a powerful gaming laptop with excellent performance and graphics capabilities for a smooth gaming experience.
+QET105, ELC101, 25, Dell, Inspiron 15 3000, 41999, 3501, 15.6, 8, 1TB, The Dell Inspiron 15 3000 is a budget laptop with decent performance and storage capacity for everyday use.
+NYC106, ELC101, 12, LG, Gram 14, 63990, 14Z990-U.AAW5U1, 14, 8, 256, The LG Gram 14 is a lightweight laptop with a long battery life and decent performance for all your computing needs.
+DXB108, ELC101, 5, Acer, Nitro 5, 74999, AN515-56, 15.6, 8, 512, The Acer Nitro 5 is a gaming laptop with powerful specs and a sleek design for a great gaming experience.
+KAR101, ELC101, 8, Lenovo, IdeaPad Slim 5, 46990, 82FE00KAIN, 14, 8, 512, The Lenovo IdeaPad Slim 5 is a slim and lightweight laptop with good performance and storage capacity for your daily needs.
+LAH102, ELC101, 20, Samsung, Galaxy A32, 20999, SM-A325FLKHINS, 6.4, 6, 128, The Samsung Galaxy A32 is a budget-friendly smartphone with good features and performance for all your communication and entertainment needs
+ISB103,ELC101,15,Xiaomi,Mi 11X,29999,M2011K2G,6.67,6,128,A high-performing smartphone with a large 6.67 inch screen, 6GB RAM and 128GB storage.
+PEW104,ELC101,6,Realme,Narzo 30 Pro,16999,RMX3161,6.5,8,128,A budget-friendly smartphone with 6.5 inch screen, 8GB RAM and 128GB storage.
+QET105,ELC101,18,OnePlus,Nord CE 5G,24999,AC2410,6.43,6,128,A 5G smartphone with a 6.43 inch screen 6GB RAM and 128GB storage.
+NYC106,ELC101,22,Oppo,F19 Pro+,25990,CPH2219,6.43,8,128,An affordable smartphone with 6.43 inch screen 8GB RAM and 128GB storage.
+DXB108,ELC101,3,Apple,iPhone 13 Pro,119900,MK2H3HN/A,6.1,6,512,The latest iPhone with 6.1 inch screen 6GB RAM and 512GB storage.
+KAR101,ELC101,14,Samsung,Galaxy Watch 3,32999,SM-R850NZDAINU,1.2,0,8,A stylish smartwatch with 1.2 inch screen and 8GB storage.
+LAH102,ELC101,7,Apple,AirPods Pro,24999,MWP22HN/A,0,0,0,Wireless earbuds with noise cancellation feature and up to 4.5 hours of battery life.
+ISB103,ELC101,20,JBL,Flip 5,8999,JBLFLIP5BLK,0,0,0,A compact Bluetooth speaker with powerful sound and up to 12 hours of battery life.
+PEW104,ELC101,9,Sony,WH-1000XM4,24990,WH-1000XM4/B,0,0,0,High-quality noise-cancelling headphones with up to 30 hours of battery life.
+LAH102,ELC101,25,LG,V5 Pro,39999,SMTV-55,55,8,128,A 55-inch LED TV with smart features and 8GB storage.
+ISB103,ELC101,10,LG,V60,59999,4KUHD-50,50,12,256,A 50-inch 4K UHD TV with smart features and 12GB RAM.
+PEW104,ELC101,15,Apple,Macbook Air,4999,WS-01,0,0,0,A portable Bluetooth speaker with up to 8 hours of battery life.
+UET105,ELC101,8,Razor,Blade 14,84999,GL-15,15,16,512,A high-performance gaming laptop with 16GB RAM and 512GB SSD.
+NYC106,ELC101,20,Sony,WMX Headphone,7999,WH-400,0,0,128,Wireless headphones with up to 15 hours of battery life and 128GB storage.
+LON107,ELC101,12,JBL,Giga Fortitude,19999,SB-01,0,0,0,A soundbar with a subwoofer and Bluetooth connectivity.
+PEW104,ELC101,15,Apple,Iphone,92000,X,5.9,4,128,An Elegant Device with extreme performance and highly optimized for day to day usage and to keep the user uptodate throughout the day.
+ISB103,ELC101,12,Apple,Iphone,194000,14S,6,8,128,An Elegant Device with multiple Functionality and top of the line features and many more.
+KAR101,ELC101,5,Lenovo,ThinkPad,65000,L580,14,16,512,A sleek design and multi functioning device for performing day to day task and business task
+KAR101,ELC101,7,Lenovo,Yoga,165000,2019,15,16,256,Trivialities aside what matters is the built quality that is provided in this device to the best

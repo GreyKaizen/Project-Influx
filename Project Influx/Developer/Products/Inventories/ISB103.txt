@@ -1,0 +1,24 @@
+ISB103,AUT108,5,Suzuki,Wagon R,15000,VXL,Hatchback,1.0,2019
+ISB103,AUT108,4,Mitsubishi,Pajero,45000,Exceed,SUV,3.2,2018
+ISB103, BPC103, 15, Olay, Ultra Moisture Body Wash, 599, Body Wash, Shea Butter, Dry Skin, Shea Butter Scent
+ISB103, BPC103, 5, Bioderma, Atoderm Shower Oil, 1899, Shower Oil, Glycerin, Dry and Sensitive Skin, Neutral Scent
+ISB103, BPC103, 3, Kiehl's, Creme de Corps Whipped Body Butter, 3699, Body Butter, Shea Butter, All Skin Types, Unscented
+ISB103, ELC101, 20, Apple, iPad Pro 11-inch, 89999, MY2J2HN/A, 11, 8, 256
+ISB103, ELC101, 30, Sony, Bravia X7500H, 73999, KD-55X7500H, 55, 2, 16
+ISB103, ELC101, 15, Xiaomi, Mi 11X, 29999, M2011K2G, 6.67, 6, 128
+ISB103, ELC101, 20, JBL, Flip 5, 8999, JBLFLIP5BLK, 0, 0, 0
+ISB103, ELC101, 10, 4K UHD Smart TV, 59999, 4KUHD-50, 50, 12, 256
+ISB103, FSH102, 10, Gucci, Women's Red Heels, 17999, 8, Red, Leather, High Heels
+ISB103, FSH102, 15, Tommy Hilfiger, Men's Blue Shirt, 6499, XL, Blue, Cotton, Formal
+ISB103, FSH102, 8, H&M, Men's Gray Sweater, 3999, L, Gray, Wool, Casual
+ISB103, MED105, 50, Pfizer, Celebrex, 25.99, Capsule, 100mg, 03/2023
+ISB103, MED105, 30, Novartis, Ritalin, 30.99, Tablet, 10mg, 09/2023
+ISB103, MED105, 90, Novartis, Voltaren, 10.99, Tablet, 50mg, 12/2025
+ISB103, PET107, 20, Woof Wag Walk, Large Dog Bed, 49.99, Bed, Dog, Adult
+ISB103, PET107, 4, Woof Wag Walk, Dog Carrier, 49.99, Carrier, Dog, Small
+ISB103, SPO104, 10, Under Armour, HOVR Sonic, 9999, 9, Navy Blue, Mesh, Running
+ISB103, SPO104, 6, Nike, Air Zoom Pegasus 38, 9999, 10, Grey, Mesh, Running
+ISB103, TNG106, 15, Lego, City Police Station, 50, 6-12, Building Set, 1
+ISB103, TNG106, 18, Lego, Ninjago Legacy Monastery of Spinjitzu, 80, 9+, Building Set, 1
+ISB103, TNG106, 6, Lego, Star Wars Mos Eisley Cantina, 350, 18+, Building Set, 1
+ISB103,BPC103,12,Apple,Iphone,194000,14S,6,8,128

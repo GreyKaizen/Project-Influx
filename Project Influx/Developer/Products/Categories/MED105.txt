@@ -1,0 +1,20 @@
+KAR101,MED105,50,Pfizer,Aspirin,5.99,Tablet,500mg,06/2025,Relieve pain and reduce fever
+NYC106,MED105,100,Johnson & Johnson,Tylenol,8.99,Caplet,325mg,09/2024,Effective for reducing fever and relieving pain
+DXB108,MED105,75,Bayer,Aleve,12.99,Tablet,220mg,12/2023,Reduce pain and inflammation for up to 12 hours
+LAH102,MED105,200,Novartis,Excedrin,7.99,Caplet,250mg,05/2024,Relieve headache and minor aches and pains
+QET105,MED105,150,GSK,Advil,9.99,Tablet,200mg,08/2025,Effective pain relief for headaches, muscle aches, toothache, and menstrual cramps
+ISB103,MED105,50,Pfizer,Celebrex,25.99,Capsule,100mg,03/2023,Reduce pain and inflammation caused by arthritis or menstrual cramps
+KAR101,MED105,100,Johnson & Johnson,Motrin,7.99,Tablet,400mg,11/2024,Relieve minor aches and pains and reduce fever
+NYC106,MED105,80,Bayer,Alka-Seltzer,6.99,Effervescent Tablet,325mg,02/2023,Relieve heartburn, upset stomach, and headache
+DXB108,MED105,60,GSK,Tums,8.99,Chewable Tablet,1000mg,10/2023,Relieve heartburn, acid indigestion, and upset stomach
+LAH102,MED105,25,Pfizer,Zoloft,20.99,Tablet,50mg,07/2024,Treat depression, obsessive-compulsive disorder, and anxiety disorders
+QET105,MED105,50,Pfizer,Viagra,50.99,Tablet,100mg,12/2022,Improve erectile dysfunction and enhance sexual performance
+ISB103,MED105,30,Novartis,Ritalin,30.99,Tablet,10mg,09/2023,Treat attention deficit hyperactivity disorder (ADHD) and narcolepsy
+KAR101,MED105,40,Pfizer,Lipitor,18.99,Tablet,40mg,11/2022,Lower cholesterol and reduce the risk of heart attack and stroke
+NYC106,MED105,20,Bayer,Xarelto,60.99,Tablet,10mg,05/2024,Prevent blood clots and reduce the risk of stroke and heart attack
+DXB108,MED105,100,GSK,Robitussin,8.99,Syrup,4mg/5ml,06/2023,Relieve cough and chest congestion
+LAH102,MED105,50,Pfizer,Prevacid,15.99,Capsule,15mg,08/2022,Treat heartburn,acid reflux and stomach ulcers
+QET105,MED105,75,Johnson & Johnson,Imodium,9.99,Capsule,2mg,01/2024,Relieve diarrhea and other symptoms of irritable bowel syndrome (IBS)
+ISB103, MED105, 90, Novartis, Voltaren, 10.99, Tablet, 50mg, 12/2025, Get effective relief from joint pain with Voltaren tablets. Each tablet contains 50mg of diclofenac sodium which reduces pain, inflammation and swelling, allowing you to go about your day without discomfort.
+KAR101, MED105, 120, Pfizer, Sudafed, 12.99, Tablet, 30mg, 07/2023, Sudafed is the go-to solution for relief from nasal congestion and sinus pressure. Each tablet contains 30mg of pseudoephedrine hydrochloride that will have you breathing easy in no time.
+NYC106, MED105, 60, Bayer, Miralax, 11.99, Powder, 17g, 03/2024, Miralax is the gentle, effective solution for occasional constipation. Each dose of this powder laxative contains 17g of polyethylene glycol 3350 which works with the water in your body to naturally stimulate bowel movements.

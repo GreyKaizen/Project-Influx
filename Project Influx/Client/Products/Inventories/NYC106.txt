@@ -1,0 +1,26 @@
+NYC106,AUT108,0,Hyundai,Elantra,23000,Elite,Sedan,1.6,2019
+NYC106,AUT108,2,BMW,3 Series,42000,320i,Sedan,2.0,2018
+NYC106, BPC103, 18, Neutrogena, Rainbath Refreshing Shower Gel, 699, Shower Gel, Vitamin E, All Skin Types, Rainbath Scent
+NYC106, BPC103, 17, Avene, XeraCalm A.D Lipid-Replenishing Cleansing Oil, 1599, Cleansing Oil, I-modulia, Dry and Itchy Skin, Unscented
+NYC106, ELC101, 12, LG, Gram 14, 63990, 14Z990-U.AAW5U1, 14, 8, 256
+NYC106, ELC101, 22, Oppo, F19 Pro+, 25990, CPH2219, 6.43, 8, 128
+NYC106, ELC101, 20, JBL, Wireless Headphones, 7999, WH-400, 0, 0, 128
+NYC106, FSH102, 25, Levi's, Men's Black T-Shirt, 1999, M, Black, Cotton, Casual
+NYC106, FSH102, 30, H&M, Women's Black Blazer, 4999, M, Black, Polyester, Formal
+NYC106, FSH102, 35, Zara, Men's White Sneakers, 4499, 9, White, Canvas, Casual
+NYC106, MED105, 100, Johnson & Johnson, Tylenol, 8.99, Caplet, 325mg, 09/2024
+NYC106, MED105, 80, Bayer, Alka-Seltzer, 6.99, Effervescent Tablet, 325mg, 02/2023
+NYC106, MED105, 20, Bayer, Xarelto, 60.99, Tablet, 10mg, 05/2024
+NYC106, MED105, 60, Bayer, Miralax, 11.99, Powder, 17g, 03/2024
+NYC106, PET107, 10, Paws and Claws, Dog Treats, 5.99, Treats, Dog, All ages
+NYC106, PET107, 7, Furry Friends, Cat Scratching Post, 39.99, Scratching Post, Cat, Adult
+NYC106, PET107, 20, Furry Friends, Cat Food, 12.99, Wet Food, Cat, Adult
+NYC106, SPO104, 12, Adidas, Ultra Boost, 12999, 10, Grey, Mesh, Running
+NYC106, SPO104, 11, Puma, Suede Classic, 7999, 10, Blue, Suede, Casual
+NYC106, SPO104, 10, Reebok, Nano 9, 8999, 11, Black, Synthetic, Training
+NYC106, SPO104, 9, ASICS, Gel-Kayano 27, 11999, 8, Blue, Mesh, Running
+NYC106, TNG106, 12, Mattel, Hot Wheels, 5, 3+, Toy Car, 1
+NYC106, TNG106, 3, Hasbro, G.I. Joe Classified Series, 30, 4+, Action Figure, 1
+NYC106, TNG106, 1, Hasbro, Monopoly: Fortnite Edition, 20, 13+, Board Game, 2-7
+
+NYC106,ELC101,0,ADFAF,ASDFQAFW,51651,ASFQW4F5Q,564,564,654

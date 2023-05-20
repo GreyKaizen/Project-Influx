@@ -1,0 +1,14 @@
+==========================================================
+|Buyer ID        : STD172	|
+|Buyer Name      : faizan	|
+|Phone Number    : 317991179	|
+
+|Order ID        : XIKY9974270	|
+|Shipping Detail : FAST Peshawar	|
+|Transaction ID  : 211175227	|
+|Payment Detail  : COD	|
+|Shipping Charge : 0	|
+|Total Bill      : 2.10661e+09	|
+|Invoice ID      : 1442981814	|
+|Invoice Type    : Standard invoice	|
+==========================================================

@@ -1,0 +1,19 @@
+QET105,AUT108,4,Mercedes-Benz,C-Class,40000,C200,Sedan,2.0,2017
+QET105,AUT108,5,Mazda,CX-5,28000,Grand Touring,SUV,2.5,2020
+QET105, BPC103, 12, St. Ives, Coconut & Orchid Body Wash, 299, Body Wash, Coconut Milk, All Skin Types, Coconut & Orchid Scent
+QET105, BPC103, 13, Aveeno, Skin Relief Body Wash, 799, Body Wash, Colloidal Oatmeal, Dry and Itchy Skin, Soothing Oatmeal Scent
+QET105, ELC101, 25, Dell, Inspiron 15 3000, 41999, 3501, 15.6, 8, 1TB
+QET105, ELC101, 18, OnePlus, Nord CE 5G, 24999, AC2410, 6.43, 6, 128
+QET105, FSH102, 20, Nike, Men's Blue Shorts, 3299, S, Blue, Nylo, Athletic
+QET105, FSH102, 25, Adidas, Women's Black Leggings, 3499, L, Black,Polyester, Sportswear
+QET105, FSH102, 30, Zara, Women's Black Leather Jacket, 8999, M, Black, Leathr, Biker
+QET105, MED105, 150, GSK, Advil, 9.99, Tablet, 200mg, 08/202
+QET105, MED105, 50, Pfizer, Viagra, 50.99, Tablet, 100mg, 12/2022
+QET105, MED105, 75, Johnson & Johnson, Imodium, 9.99, Capsule, 2mg, 01/2024
+QET105, PET107, 30, Bark Avenue, Dog Leash, 9.99, Leash, Dog, Medium
+QET105, PET107, 10, Bark Avenue, Dog Collar, 14.99, Collar, Dog, Small
+QET105, SPO104, 15, Asics, Gel-Nimbus 23, 12999, 11, Black, Synthetic, Running
+QET105, SPO104, 12, New Balance, Fresh Foam 1080v11, 11999, 11, Black, Mesh, Running
+QET105, TNG106, 3, Hasbro, Transformers: Cyberverse Ultimate Class, 35, 6+, Action Figure, 1
+QET105, TNG106, 7, Spin Master, Owleez, 40, 6+, Interactive Toy, 1
+QET105, TNG106, 5, Spin Master, Etch A Sketch, 15, 3+, Drawing Toy, 1

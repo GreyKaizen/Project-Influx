@@ -1,0 +1,8 @@
+To Compile; 
+g++ -c .\FriendFunction.cpp .\Session.cpp .\Person.cpp .\Admin.cpp .\Guest.cpp .\Seller.cpp .\Buyer.cpp .\Inventory.cpp .\Product.cpp .\main.cpp
+
+To Create Exe/Out File
+ g++ .\FriendFunction.o .\Session.o .\Person.o .\Admin.o .\Guest.o .\Seller.o .\Buyer.o .\Inventory.o .\Product.o .\main.o -o main
+
+To Run
+.\main.exe .\main.out

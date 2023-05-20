@@ -1,0 +1,13 @@
+==========================================================
+|Buyer ID        : ELT917	|
+|Buyer Name      : Awais	|
+|Phone Number    : 1234567891	|
+
+|Order ID        : XISS19901	|
+|Shipping Detail : 	|
+|Transaction ID  : 4017	|
+|Payment Detail  : Credit Card	|
+|Shipping Charge : 0	|
+|Total Bill      : 6.68348e+006	|
+|Invoice ID      : 4076	|
+|Invoice Type    : Credit invoice	|
